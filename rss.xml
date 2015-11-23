@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TileAdhesive.co.uk]]></title>
+        <description><![CDATA[TileAdhesive.co.uk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 23:53:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us - PUBLIC IMAGE UK]]></title>
+            <description><![CDATA[<article><h1>About us - PUBLIC IMAGE UK</h1><p>Put simply we build the ecommerce site for your business then connect it to your marketplace we start selling your stock and only then do you pay us in full. That's how confident we are that our ecommerce websites work, that's why most clients having multi sites for reasons of pure greed, Hey!</p></article>]]></description>
+            <link>http://publicimageuk.com/about-us/</link>
+            <guid isPermaLink="false">eae0ec0e-b40b-4811-ba3e-44f0018db8bb</guid>
+            <pubDate>Mon, 23 Nov 2015 23:53:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
