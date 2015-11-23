@@ -1,0 +1,28 @@
+name: TileAdhesive.co.uk
+favicon: null
+layout_spectrum: 0.6608371809124947
+typography_spectrum: 0.5918184092734009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7520919600501657
+  lightness: 0.9456463151145726
+  saturation: 0.7315398170612752
+  rhythmicContrast: 0.9518014362547547
+purpose: []
